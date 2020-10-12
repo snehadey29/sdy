@@ -10,8 +10,8 @@ hero:
   # slider background image loop
   slider_image:
     - "images/slider/slider-4.jpg"
-    - "images/slider/slider7.jpg"
-    - "images/slider/slider-2.jpg"
+    - "images/slider/slide-8.jpg"
+    - "images/slider/slider6.jpg"
 
   # button
   button:
@@ -23,7 +23,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  bg_image : "images/backgrounds/slider7.jpg"
   first_name : "MacGyver"
   last_name : "SNEHA"
   
