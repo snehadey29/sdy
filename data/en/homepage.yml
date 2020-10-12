@@ -5,7 +5,7 @@ hero:
   # animated text loop
   occupations:
     - "Aspiring Data Scientist"
-    - "Statistician"
+    - "Statistician in making"
 
   # slider background image loop
   slider_image:
@@ -33,7 +33,7 @@ about:
   enable : true
   image : "images/backgrounds/sneha 1.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : This is Sneha,currently pursuing her B.Sc in Statistics while simultaneously trying to gather knowledge on programming and data science.An avid learner and shows interest in various co-curricular activities as well.loves to solve new problems,also have recently developed keen interest in coding.Well known for good conduct,maintaining cordial relationships and helping the needy.Contributes her best as an individual as well as in a team and tries to keep up to the expectations.Stay connected.... 
+  content : This is Sneha,a Statistics undergrad trying to gather knowledge on programming and data science.An avid learner and shows interest in various co-curricular activities as well.loves to solve new problems,also have recently developed keen interest in coding.Well known for good conduct,maintaining cordial relationships and helping the needy.Contributes her best as an individual as well as in a team and tries to keep up to the expectations.Stay connected.... 
   
 ###########################3 Experience ##############################
 experience:
@@ -43,7 +43,7 @@ experience:
     # experience item loop
     - name : "Data Science Intern"
       company : "Softanbees Technologies Pvt.Ltd."
-      duration : "March 2020-Present"
+      duration : "May 2020-Present"
       content : "I worked with various machine learning tools like Linear and Logistic Regression,Decision Tree,Clustering,Random Forest.Currently I'm learning to deploy models using Shiny and create blogs."
       
     
